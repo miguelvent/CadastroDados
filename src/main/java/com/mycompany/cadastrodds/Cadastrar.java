@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
  * @author Vent
  */
 
-// -> Declarando a classe da interface, definindo sua visibilidade importando o JFrame
+// -> Declarando a classe da interface, definindo sua visibilidade ee importando o JFrame
 //
 public class Cadastrar extends javax.swing.JFrame {
 
